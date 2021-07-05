@@ -30,11 +30,11 @@ Add an additional layer of encryption
 ### Links
 
 
-Heroku Link: https://basic-auth-amro.herokuapp.com/
+Heroku Link: [https://bearer-auth-amro.herokuapp.com/](https://bearer-auth-amro.herokuapp.com/)
 
 Github Actions: [https://github.com/amroalbarham/bearer-auth/actions](https://github.com/amroalbarham/bearer-auth/actions)
 
-Pull Request: https://github.com/amroalbarham/basic-auth/pull/1
+Pull Request: [https://github.com/amroalbarham/bearer-auth/pull/1](https://github.com/amroalbarham/bearer-auth/pull/1)
 
 ## UML
 
